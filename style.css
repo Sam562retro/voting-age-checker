@@ -1,0 +1,21 @@
+      body{
+        margin: 0;
+        padding: 0;
+        background-color: 	#DCDCDC;
+      }
+      .text{
+        cursor: text;
+        text-align: center;
+      }
+      .button{
+        cursor: pointer;
+      }
+      .card {
+        background-color: lightgray;
+        margin: 100px;
+        text-align: center;
+      }
+    .center {
+			padding: 10px;
+			margin: 10px;
+		}
